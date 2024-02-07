@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img width="200" height="200" src="https://ibb.co/9qxJrj9" alt="my banner">
+<img width="200" height="200" src="https://thumbs2.imgbox.com/92/78/BLxXkLjJ_t.png" alt="my banner">
 
 </p>
 
