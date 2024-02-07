@@ -14,7 +14,7 @@
 <br>
 :envelope: You can talk to me through my <a href="https://www.linkedin.com/in/stefany-junges/" target="_blank">Linkedin</a>
 <br>
-:girl: A random fact about me: solo travelling is one of my passions and I have been to 7 countries by myself and 12 countries in total between South America, North America and Europe!
+:girl: A random fact about me: solo travelling is one of my passions and I have been to 7 countries by myself and 13 countries in total between South America, North America and Europe!
 
 <!--
 **stefanyrjunges/stefanyrjunges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
