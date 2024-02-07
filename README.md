@@ -1,6 +1,6 @@
 <p align="left">
 
-<img width="600" height="300" src="https://raw.githubusercontent.com/stefanyrjunges/stefanyrjunges/main/banner4.png" alt="my banner">
+<img src="https://raw.githubusercontent.com/stefanyrjunges/stefanyrjunges/main/banner.png" alt="my banner">
 
 ### Hi there 👋
 
