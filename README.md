@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-<p align="center">
-
-<img width="1000" height="300" src="https://thumbs2.imgbox.com/92/78/BLxXkLjJ_t.png" alt="my banner">
-
-</p>
-
 <!--
 **stefanyrjunges/stefanyrjunges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
