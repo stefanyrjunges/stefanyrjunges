@@ -10,7 +10,7 @@
 <br>
 :eyes: Learning Python, Java and more
 <br>
-:books: Working on personal projects to build skills and a high-quality portfolio
+:books: Working on personal and academic projects to build skills and a high-quality portfolio
 <br>
 :envelope: You can talk to me through my <a href="https://www.linkedin.com/in/stefany-junges/" target="_blank">Linkedin</a>
 <br>
