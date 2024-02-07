@@ -2,9 +2,21 @@
 
 <img src="https://raw.githubusercontent.com/stefanyrjunges/stefanyrjunges/main/banner5.png" alt="my banner">
 
-### Hi there 👋
-
 </p>
+
+### Hi there, welcome! 👋
+<hr>
+
+:computer: I'm an Undergraduate student at National College of Ireland (NCI)
+<br>
+:eyes: Learning Python, Java and more
+<br>
+:books: Working on personal projects to build skills and a high-quality portfolio
+<br>
+:envelope: You can talk to me through my <a href="linkedin.com/stefanyrjunges">Linkedin</a>
+<br>
+:girl: A random fact about me: solo travelling is one of my passions and I have been to 7 countries by myself and 12 countries in total between South America, North America and Europe!
+
 <!--
 **stefanyrjunges/stefanyrjunges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
