@@ -5,7 +5,6 @@
 </p>
 
 ### Hi there, welcome! 👋
-<hr>
 
 :computer: I'm an Undergraduate student at National College of Ireland (NCI)
 <br>
